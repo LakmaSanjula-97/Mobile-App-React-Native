@@ -1,7 +1,7 @@
-# This application is developed using React Native and designed to resemble the Figma design provided in the link. 
-# It fetches character data from ThronesAPI and allows users to sign up, sign in, view character details, and manage their profiles.
+## This application is developed using React Native and designed to resemble the Figma design provided in the link. 
+## It fetches character data from ThronesAPI and allows users to sign up, sign in, view character details, and manage their profiles.
 
-# Features
+### Features
 Firebase Authentication:
 
 Sign Up and Sign In processes integrated.
@@ -15,22 +15,20 @@ Displays user information.
 Option to log out and redirect to Sign In screen.
 
 
-
-# bash
-# clone the repo
+### clone the repository
 git clone https://github.com/your/repository.git
 cd repository
 
-# Install dependencies:
+### Install dependencies:
 
 npm install
 
-# Configure Firebase:
+### Configure Firebase:
 
 Create a Firebase project and obtain configuration details.
 Update Firebase configuration in /firebase.js.
 
-# Run the application:
+### Run the application:
 
 npm start
 
